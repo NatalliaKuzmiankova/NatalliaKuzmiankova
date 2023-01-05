@@ -1,4 +1,4 @@
-![Header](https://github.com/NatalliaKuzmiankova/NatalliaKuzmiankova/blob/main/assets/softwaretester_text_1.jpg)
+![Header](https://user-images.githubusercontent.com/121963828/210799959-84e79dd0-a2c4-4cb5-b6ac-20e7bf1ffd0e.jpg)
 
 ## I'm a QA Engineer. 
  
