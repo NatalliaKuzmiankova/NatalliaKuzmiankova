@@ -1,4 +1,4 @@
-![Header](https://github.com/NatalliaKuzmiankova/NatalliaKuzmiankova/blob/main/assets/softwaretester_text_1.jpg)
+![Header](https://user-images.githubusercontent.com/121963828/210799959-84e79dd0-a2c4-4cb5-b6ac-20e7bf1ffd0e.jpg)
 
 ## I'm a QA Engineer. 
  
@@ -18,13 +18,13 @@
 ![Header](https://img.shields.io/badge/Fiddler-090909?style=for-the-badge&logo=fiddler&logoColor=8cc4d7)
 ![Header](https://img.shields.io/badge/CharlesProxy-090909?style=for-the-badge&logo=charlesproxy&logoColor=8cc4d7)
 
-### Testing Documentation
+### Testing Artefacts
 
-- [Checklists](https://github.com/NatalliaKuzmiankova/checklist)
-- [Test-Suites and Test-Cases](https://github.com/NatalliaKuzmiankova/test-cases)
-- [Bug-Reports](https://github.com/NatalliaKuzmiankova/bug-reports)
-- [SQL Queries](https://github.com/NatalliaKuzmiankova/SQL)
-- [Postman Collections](https://github.com/NatalliaKuzmiankova/postman)
+- [Checklists](https://github.com/NatalliaKuzmiankova/CheckLists)
+- [Test-Suites and Test-Cases](https://github.com/NatalliaKuzmiankova/TestCases)
+- [Bug-Reports](https://github.com/NatalliaKuzmiankova/BugReports)
+- [SQL Queries](https://github.com/NatalliaKuzmiankova/SqlQueries)
+- [Postman Collections](https://github.com/NatalliaKuzmiankova/PostmanCollections)
 
 ### Follow Me
 [![Header](https://img.shields.io/badge/Instagram-090909?style=for-the-badge&logo=instagram&logoColor=9939a3)](https://www.instagram.com/lunatik_natik/)
