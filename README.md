@@ -25,6 +25,7 @@
 - [Bug-Reports](https://github.com/NatalliaKuzmiankova/BugReports)
 - [SQL Queries](https://github.com/NatalliaKuzmiankova/SqlQueries)
 - [Postman Collections](https://github.com/NatalliaKuzmiankova/PostmanCollections)
+- [Bash Commands](https://github.com/NatalliaKuzmiankova/BashCommands)
 
 ### Follow Me
 [![Header](https://img.shields.io/badge/Instagram-090909?style=for-the-badge&logo=instagram&logoColor=9939a3)](https://www.instagram.com/lunatik_natik/)
